@@ -1,0 +1,2 @@
+# NewsNinja
+Practical Test
